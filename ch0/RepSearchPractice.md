@@ -1,16 +1,27 @@
 # 检索实操
 
-```
-int i = 10;
+``` cpp
+int i = 11;
 ```
 
+<font face="黑体" color=black><i>我是黑体字<i></font>
+<br />
+<font face="微软雅黑" color=blue><i>我是微软雅黑<i></font>
+<br />
+<font face="STCAIYUN" color=red><s>我是华文彩云</s></font>
+<br />
+<font face="STCAIYUN" color=red><u>我是华文彩云</u></font>
+
+
+<!-- <center></center> 居中 -->
+---
  <table>
         <tr>
-            <td>One</td>
+            <td><font color=blue>one</font> </td>
             <td>Two</td>
         </tr>
         <tr>
-            <td colspan="2">Three</td>
+            <td colspan="2"><center>Three</center></td> 
         </tr>
 </table>
 
